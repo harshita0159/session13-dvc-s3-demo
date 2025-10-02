@@ -1,0 +1,5 @@
+outs:
+- md5: 4df4a5d155f1a06d0be72bd713587aed
+  size: 1751
+  hash: md5
+  path: student-por.csv
